@@ -53,11 +53,11 @@ I build modern, responsive web applications and enjoy exploring new technologies
   </a>
     <h4>Frontend<h4/>
 
-   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,tawlwind" />
+   <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind,daisyui"
+    />
   </a>
-
-  
 
 </p>
 
