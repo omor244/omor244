@@ -44,15 +44,21 @@ I build modern, responsive web applications and enjoy exploring new technologies
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="left">🧠 Skills & Technologies</h3>
+<h2 align="left">🧠 Skills & Technologies</h2>
 <p align="left">
  
+  <h4> Languages<h4/>
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
+    <h4>Frontend<h4/>
+
    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=react,vite,tawlwind" />
   </a>
+
+  
+
 </p>
 
 <!-- GitHub Stats -->
