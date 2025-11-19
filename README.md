@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://i.ibb.co/fd24B5BX/Gemini-Generated-Image-on14lmon14lmon14.png" alt="Banner" width="800"/>
+  <img src="https://i.ibb.co.com/fd24B5BX/Gemini-Generated-Image-on14lmon14lmon14.png" alt="Banner" width="800"/>
 </p>
 
 <!-- Introduction -->
