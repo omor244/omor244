@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mr: Omor</h1>
 <h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
-
+<img src="https://i.ibb.co.com/fd24B5BX/Gemini-Generated-Image-on14lmon14lmon14.png"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sk.omer.1257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sk.omer.1257" height="30" width="40" /></a>
