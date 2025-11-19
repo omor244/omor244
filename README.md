@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://i.ibb.co.com/fd24B5BX/Gemini-Generated-Image-on14lmon14lmon14.png" alt="Banner" height="100%" width="800"/>
-</p>
+
+  <img src="https://i.ibb.co.com/fd24B5BX/Gemini-Generated-Image-on14lmon14lmon14.png" alt="Banner" height="100%" width="100%"/>
+
 
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Mr: Omor</h1>
