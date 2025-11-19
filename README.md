@@ -1,11 +1,15 @@
+<h1 align="center">Hi 👋, I'm Mr: Omor</h1>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
+
+
 <!-- Banner Image -->
 
-  <img src="https://i.ibb.co.com/fd24B5BX/Gemini-Generated-Image-on14lmon14lmon14.png" alt="Banner" height="100%" width="100%"/>
+<p align="center">
+  <img src="https://i.ibb.co.com/8gLQZVtK/Gemini-Generated-Image-ayspueayspueaysp.png" alt="Banner" width="100%"/>
+</p>
 
 
 <!-- Introduction -->
-<h1 align="center">Hi 👋, I'm Mr: Omor</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 
 <!-- Connect with me -->
 <h3 align="left">Connect with me:</h3>
