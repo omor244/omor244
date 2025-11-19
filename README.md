@@ -43,6 +43,7 @@ I build modern, responsive web applications and enjoy exploring new technologies
   </a> -->
 </p>
 
+---
 <!-- Languages and Tools -->
 <h2 align="left">🧠 Skills & Technologies</h2>
 <p align="left">
