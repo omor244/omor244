@@ -59,6 +59,34 @@ I build modern, responsive web applications and enjoy exploring new technologies
     />
   </a>
 
+  <h4>Backend</h4>
+     <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs"
+    />
+  </a>
+
+  <h4>Database</h4>
+     <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=mongodb,firebase"
+    />
+  </a>
+
+  <h4>Deployment & Hosting</h4>
+   <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify"
+    />
+  </a>
+
+  <h4>Tools & Others </h4>
+    <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify"
+    />
+  </a>
+  
 </p>
 
 <!-- GitHub Stats -->
