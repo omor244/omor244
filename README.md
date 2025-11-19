@@ -76,14 +76,14 @@ I build modern, responsive web applications and enjoy exploring new technologies
   <h4>Deployment & Hosting</h4>
    <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify"
+      src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,firebase"
     />
   </a>
 
   <h4>Tools & Others </h4>
     <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify"
+      src="https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,chatgpt,gemini,claude"
     />
   </a>
   
