@@ -5,7 +5,7 @@
 <!-- Banner Image -->
 
 <p align="center">
-  <img src="https://i.ibb.co.com/8gLQZVtK/Gemini-Generated-Image-ayspueayspueaysp.png" alt="Banner" width="100%"/>
+  <img src="https://github.com/omor244/omor244/blob/main/Gemini_Generated_Image_ayspueayspueaysp.png?raw=true" alt="Banner" width="100%"/>
 </p>
 
 
