@@ -56,7 +56,7 @@ I build modern, responsive web applications and enjoy exploring new technologies
 
    <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,tailwind,daisyui"
+      src="https://go-skill-icons.vercel.app/api/icons?i=react,vite,next,tailwind,daisyui"
     />
   </a>
 
