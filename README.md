@@ -13,8 +13,7 @@
 
  ## 🧑‍💻 About Me
 
-Hi! I'm **Md. Shukur Mahmud**, a passionate **Fullstack Developer** specializing in **Next.js, React.js, and Node.js**.  
-I build modern, responsive web applications and enjoy exploring new technologies.
+I am Omor Faruk, a MERN Stack Developer who enjoys building scalable and user-friendly web applications. I started learning programming because I was curious about how websites work. I first learned HTML, CSS, and JavaScript, react, next.js,   and later moved to backend technologies like Node.js, Express.js, and databases, becoming a full-stack developer. I built Club Sphere, where I worked on authentication, CRUD operations, payments, dashboards, and role-based access. My strengths include problem-solving, teamwork, adaptability, and a strong desire to keep learning and create meaningful solutions.
 
 ---
 
