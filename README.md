@@ -20,8 +20,8 @@ I am Omor Faruk, a MERN Stack Developer who enjoys building scalable and user-fr
 ## 🔥 Current Activities
 
 - 🖥️ Building responsive web interfaces using **HTML5, CSS3, JavaScript**
-- ⚛️ Developing front-end apps with **React.js** and **Vite**
-- 🛠️ Creating fullstack projects with **Node.js, Express, MongoDB, and Firebase**
+- ⚛️ Developing front-end apps with **React.js** and **Vite** **next.js**
+- 🛠️ Creating fullstack projects with **Node.js, Express, MongoDB, and Firebase nextAuth**
 - 🎨 Designing UI with **Tailwind CSS** and **DaisyUI**
 - 🚀 Deploying apps on **Vercel** and **Netlify**
 - 📚 Learning **TypeScript**, Python, and advanced full-stack concepts
