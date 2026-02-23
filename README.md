@@ -37,6 +37,9 @@ I am Omor Faruk, a MERN Stack Developer who enjoys building scalable and user-fr
  <a href="https://www.linkedin.com/in/omor-dev/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <a href="omoronfire90909@gmail.com">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Gmail" height="30" width="40" />
+  </a>
   <!-- <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" width="40" />
   </a> -->
